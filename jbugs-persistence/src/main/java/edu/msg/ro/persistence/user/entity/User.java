@@ -14,7 +14,7 @@ public class User {
     private String username;
     private String password;
     private String status;
-     //test
+     //test 2
     public long getIdUser() {
         return idUser;
     }
